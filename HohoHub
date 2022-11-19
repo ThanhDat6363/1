@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ThanhDat6363/5/main/2(Copy).txt'))()"
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ThanhDat6363/5/main/HoHoHubPre.lua'))()
